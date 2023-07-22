@@ -1,0 +1,6 @@
+[submodule "airflow-multi-repo-git-sync-sub-a"]
+	path = airflow-multi-repo-git-sync-sub-a
+	url = git@github.com:titowoche30/airflow-multi-repo-git-sync-sub-a.git
+[submodule "airflow-multi-repo-git-sync-sub-b"]
+	path = airflow-multi-repo-git-sync-sub-b
+	url = git@github.com:titowoche30/airflow-multi-repo-git-sync-sub-b.git
